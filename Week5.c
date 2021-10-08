@@ -1,4 +1,8 @@
+void test_1();
+
 int main() {
 
-    printf("Branch Test : <test_1>");
+    printf("Master");
+    return 0;
 }
+
