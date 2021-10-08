@@ -1,4 +1,4 @@
 void branch1()
 {
-    printf("Branch1");
+    printf("Test1");
 }
